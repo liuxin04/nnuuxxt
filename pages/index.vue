@@ -24,16 +24,14 @@
         </div>
     </div>
 </template>
-
 <script>
-import Qrcode from "@/components/qrcode"
+import Qrcode from "@/components/qrcode";
 export default {
     components: {
         Qrcode,
     },
-}
+};
 </script>
-
 <style>
 .container {
     margin: 0 auto;
